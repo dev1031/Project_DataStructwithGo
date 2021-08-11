@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"Project_DataStructwithGo/stack"
+)
 
 func main() {
-	fmt.Println("Hello world!!!")
+	stack.Stack()
 }
